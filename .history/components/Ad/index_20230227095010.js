@@ -11,7 +11,7 @@ export default function Ad() {
             <div className={styles.container}>
                 <div className={styles.popup_area}>
                     <div onClick={() => setPopup(false)}>Close</div>
-                    Welcome here
+                    Welcome
                 </div>
             </div>
             :<></>
